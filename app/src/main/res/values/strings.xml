@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="dialog_title"><b>Custom Alert Dialog</b></string>
+    <string name="dialog_text">Allow <b>ThisApp</b> to do some stuff?</string>
+</resources>

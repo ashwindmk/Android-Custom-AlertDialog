@@ -1,0 +1,1 @@
+Custom Alert Dialog is a simple Android project which shows how to create a custom alert dialog.
